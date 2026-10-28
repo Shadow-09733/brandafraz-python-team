@@ -1,2 +1,2 @@
-# brandafraz-python-team-9
+# brandafraz-python-team
 Brandafraz Python Mini Project - Team9
